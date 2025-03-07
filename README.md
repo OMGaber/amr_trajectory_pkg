@@ -13,9 +13,7 @@
 - 📌 Visualize trajectories in **RViz** using markers.
 - 📌 Supports time-stamped poses with position and orientation data.
 
----
 ```
-
 ## **Package Structure**
 
 amr_trajectory_pkg/
