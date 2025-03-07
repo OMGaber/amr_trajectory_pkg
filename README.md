@@ -38,9 +38,8 @@ amr_trajectory_pkg/
 ├── include/                # Header files (if any)
 └── README.md               # Documentation
 ```
-
 ---
-
+```
 ## **Dependencies**
 - ROS Noetic
 - `yaml-cpp` for YAML parsing
