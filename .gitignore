@@ -1,0 +1,7 @@
+# ROS build and log files
+build/
+devel/
+logs/
+*.swp
+*.pyc
+.DS_Store

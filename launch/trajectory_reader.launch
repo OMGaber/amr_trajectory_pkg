@@ -1,0 +1,12 @@
+<launch>
+    <!-- Define command-line arguments with default values -->
+    <arg name="file" default="/root/race_ws/src/amr_trajectory_pkg/saved_trajectory/trajectory.csv" />
+    <arg name="format" default="csv" />
+
+    <!-- Pass arguments to the node as ROS parameters -->
+    <param name="trajectory_file" value="$(arg file)" />
+    <param name="trajectory_format" value="$(arg format)" />
+
+    <node pkg="amr_trajectory_pkg" type="trajectory_reader_node" name="trajectory_reader_node" output="screen" />
+</launch>
+

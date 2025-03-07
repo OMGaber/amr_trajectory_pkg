@@ -1,0 +1,340 @@
+- timestamp: 2943.61
+  position:
+    x: -0.940809
+    y: -2.24439
+    z: 0
+  orientation:
+    x: 0
+    y: 0
+    z: 0.0912446
+    w: 0.995829
+- timestamp: 2943.81
+  position:
+    x: -0.827623
+    y: -2.22566
+    z: 0
+  orientation:
+    x: 0
+    y: 0
+    z: 0.0907185
+    w: 0.995877
+- timestamp: 2944.01
+  position:
+    x: -0.71714
+    y: -2.20342
+    z: 0
+  orientation:
+    x: 0
+    y: 0
+    z: 0.0902526
+    w: 0.995919
+- timestamp: 2944.21
+  position:
+    x: -0.618436
+    y: -2.18521
+    z: 0
+  orientation:
+    x: 0
+    y: 0
+    z: 0.0891088
+    w: 0.996022
+- timestamp: 2944.41
+  position:
+    x: -0.51536
+    y: -2.16724
+    z: 0
+  orientation:
+    x: 0
+    y: 0
+    z: 0.0734041
+    w: 0.997302
+- timestamp: 2944.61
+  position:
+    x: -0.411377
+    y: -2.15478
+    z: 0
+  orientation:
+    x: 0
+    y: 0
+    z: 0.0491207
+    w: 0.998793
+- timestamp: 2944.81
+  position:
+    x: -0.3075
+    y: -2.14354
+    z: 0
+  orientation:
+    x: 0
+    y: 0
+    z: 0.0337548
+    w: 0.99943
+- timestamp: 2945
+  position:
+    x: -0.199399
+    y: -2.13945
+    z: 0
+  orientation:
+    x: 0
+    y: 0
+    z: 0.015276
+    w: 0.999883
+- timestamp: 2945.21
+  position:
+    x: -0.0909442
+    y: -2.13667
+    z: 0
+  orientation:
+    x: 0
+    y: 0
+    z: 0.0049838
+    w: 0.999988
+- timestamp: 2945.4
+  position:
+    x: 0.0207815
+    y: -2.13346
+    z: 0
+  orientation:
+    x: 0
+    y: 0
+    z: 0.00197993
+    w: 0.999998
+- timestamp: 2945.61
+  position:
+    x: 0.122274
+    y: -2.13092
+    z: 0
+  orientation:
+    x: 0
+    y: 0
+    z: -6.57422e-05
+    w: 1
+- timestamp: 2945.85
+  position:
+    x: 0.2385
+    y: -2.13188
+    z: 0
+  orientation:
+    x: 0
+    y: 0
+    z: -0.001585
+    w: 0.999999
+- timestamp: 2946.04
+  position:
+    x: 0.35022
+    y: -2.12958
+    z: 0
+  orientation:
+    x: 0
+    y: 0
+    z: -0.00210469
+    w: 0.999998
+- timestamp: 2946.25
+  position:
+    x: 0.471707
+    y: -2.12854
+    z: 0
+  orientation:
+    x: 0
+    y: 0
+    z: -0.00197994
+    w: 0.999998
+- timestamp: 2946.44
+  position:
+    x: 0.580293
+    y: -2.12987
+    z: 0
+  orientation:
+    x: 0
+    y: 0
+    z: -0.00504294
+    w: 0.999987
+- timestamp: 2946.64
+  position:
+    x: 0.695326
+    y: -2.1324
+    z: 0
+  orientation:
+    x: 0
+    y: 0
+    z: -0.00479851
+    w: 0.999988
+- timestamp: 2946.84
+  position:
+    x: 0.808338
+    y: -2.13096
+    z: 0
+  orientation:
+    x: 0
+    y: 0
+    z: -0.00370017
+    w: 0.999993
+- timestamp: 2947.04
+  position:
+    x: 0.932627
+    y: -2.1296
+    z: 0
+  orientation:
+    x: 0
+    y: 0
+    z: -0.00289451
+    w: 0.999996
+- timestamp: 2947.24
+  position:
+    x: 1.05657
+    y: -2.12902
+    z: 0
+  orientation:
+    x: 0
+    y: 0
+    z: -0.00321847
+    w: 0.999995
+- timestamp: 2947.44
+  position:
+    x: 1.15976
+    y: -2.12991
+    z: 0
+  orientation:
+    x: 0
+    y: 0
+    z: -0.00463849
+    w: 0.999989
+- timestamp: 2947.64
+  position:
+    x: 1.27166
+    y: -2.13231
+    z: 0
+  orientation:
+    x: 0
+    y: 0
+    z: -0.00133313
+    w: 0.999999
+- timestamp: 2947.84
+  position:
+    x: 1.38304
+    y: -2.13031
+    z: 0
+  orientation:
+    x: 0
+    y: 0
+    z: 0.0102556
+    w: 0.999947
+- timestamp: 2948.04
+  position:
+    x: 1.49126
+    y: -2.12406
+    z: 0
+  orientation:
+    x: 0
+    y: 0
+    z: 0.0324547
+    w: 0.999473
+- timestamp: 2948.23
+  position:
+    x: 1.60204
+    y: -2.11533
+    z: 0
+  orientation:
+    x: 0
+    y: 0
+    z: 0.0442066
+    w: 0.999022
+- timestamp: 2948.44
+  position:
+    x: 1.72104
+    y: -2.10471
+    z: 0
+  orientation:
+    x: 0
+    y: 0
+    z: 0.053296
+    w: 0.998579
+- timestamp: 2948.64
+  position:
+    x: 1.81722
+    y: -2.0942
+    z: 0
+  orientation:
+    x: 0
+    y: 0
+    z: 0.0684722
+    w: 0.997653
+- timestamp: 2948.84
+  position:
+    x: 1.9343
+    y: -2.07751
+    z: 0
+  orientation:
+    x: 0
+    y: 0
+    z: 0.0758949
+    w: 0.997116
+- timestamp: 2949.04
+  position:
+    x: 2.03842
+    y: -2.05952
+    z: 0
+  orientation:
+    x: 0
+    y: 0
+    z: 0.085368
+    w: 0.996349
+- timestamp: 2949.24
+  position:
+    x: 2.15323
+    y: -2.04002
+    z: 0
+  orientation:
+    x: 0
+    y: 0
+    z: 0.0880363
+    w: 0.996117
+- timestamp: 2949.45
+  position:
+    x: 2.25922
+    y: -2.02305
+    z: 0
+  orientation:
+    x: 0
+    y: 0
+    z: 0.0907072
+    w: 0.995878
+- timestamp: 2949.64
+  position:
+    x: 2.36261
+    y: -2.00714
+    z: 0
+  orientation:
+    x: 0
+    y: 0
+    z: 0.0867663
+    w: 0.996229
+- timestamp: 2949.93
+  position:
+    x: 2.47676
+    y: -1.99013
+    z: 0
+  orientation:
+    x: 0
+    y: 0
+    z: 0.0796806
+    w: 0.99682
+- timestamp: 2950.3
+  position:
+    x: 2.58591
+    y: -1.9704
+    z: 0
+  orientation:
+    x: 0
+    y: 0
+    z: 0.0764668
+    w: 0.997072
+- timestamp: 2950.89
+  position:
+    x: 2.69336
+    y: -1.95673
+    z: 0
+  orientation:
+    x: 0
+    y: 0
+    z: 0.077993
+    w: 0.996954

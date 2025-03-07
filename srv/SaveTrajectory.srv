@@ -1,0 +1,7 @@
+string filename
+float32 duration
+string format  #'csv', 'json', or 'yaml'
+---
+bool success
+string message
+
