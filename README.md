@@ -14,9 +14,10 @@
 - 📌 Supports time-stamped poses with position and orientation data.
 
 ---
+```
 
 ## **Package Structure**
-```
+
 amr_trajectory_pkg/
 ├── CMakeLists.txt          # Build configuration
 ├── package.xml             # Package metadata
