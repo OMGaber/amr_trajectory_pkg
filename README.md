@@ -104,11 +104,6 @@ roslaunch amr_trajectory_pkg trajectory_reader.launch format:=json   # JSON form
 ### **3. Visualizing Trajectories in RViz**
 Run RViz with a saved config:
 ```bash
-roslaunch amr_trajectory_pkg rviz_view.launch
-```
-
-Or manually open RViz and load the config:
-```bash
 rviz -d /root/race_ws/src/amr_trajectory_pkg/rviz/trajectory_view.rviz
 ```
 
